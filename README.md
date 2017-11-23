@@ -8,7 +8,7 @@
 
 amu = 1u"u" 
 
-uconvert(u"kg", amu) # => 1.66054e-27u"kg" )
+uconvert(u"kg", amu) # => 1.66054e-27u"kg"
 
 n_bar = 1u"n20"
 
