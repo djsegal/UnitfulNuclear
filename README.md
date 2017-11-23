@@ -1,7 +1,3 @@
 # UnitfulNuclear
 
-[![Build Status](https://travis-ci.org/djsegal/UnitfulNuclear.jl.svg?branch=master)](https://travis-ci.org/djsegal/UnitfulNuclear.jl)
-
-[![Coverage Status](https://coveralls.io/repos/djsegal/UnitfulNuclear.jl/badge.svg?branch=master&service=github)](https://coveralls.io/github/djsegal/UnitfulNuclear.jl?branch=master)
-
-[![codecov.io](http://codecov.io/github/djsegal/UnitfulNuclear.jl/coverage.svg?branch=master)](http://codecov.io/github/djsegal/UnitfulNuclear.jl?branch=master)
+[![Build Status](https://travis-ci.org/djsegal/UnitfulNuclear.jl.svg?branch=master)](https://travis-ci.org/djsegal/UnitfulNuclear.jl) [![codecov.io](http://codecov.io/github/djsegal/UnitfulNuclear.jl/coverage.svg?branch=master)](http://codecov.io/github/djsegal/UnitfulNuclear.jl?branch=master)
